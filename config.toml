@@ -1,5 +1,5 @@
 # Base information
-baseURL = "https://example.com"
+baseURL = "https://manipabba.github.io/site"
 languageCode = "en-gb"
 title = "Mani Pabba"
 theme = "hugo-developer-portfolio"
