@@ -19,57 +19,57 @@ skill:
   enable: true
   item:
     - title: Java
-      logo: /java_logo.svg
+      logo: java_logo.svg
       description: Web development (APIs), SDKs, Java Swing, JavaFx
     - title: Python
-      logo: /python_logo.svg
+      logo: python_logo.svg
       description: OpenCV, SDKs, automation, AWS SDK
     - title: C/C++
-      logo: /C_logo.svg
+      logo: C_logo.svg
       description: IBM Software Rational Architect, Microcontrollers (STM32), Bayesian Simulation (high performance programming needs)
     - title: JavaScript
-      logo: /JavaScript_logo.svg
+      logo: JavaScript_logo.svg
       description: Tensorflow.js, Processing.js
     - title: OCaml
-      logo: /ocaml_logo.svg
+      logo: ocaml_logo.svg
       description: Learned in course organization of programming languages
     - title: Rust
-      logo: /rust_logo.svg
+      logo: rust_logo.svg
       description: Learned in course organization of programming languages
     - title: Ruby
-      logo: /ruby_logo.svg
+      logo: ruby_logo.svg
       description: Learned in course organization of programming languages, use for general scripting
     - title: AWS
-      logo: /aws_logo.svg
+      logo: aws_logo.svg
       description: EC2, Lambda, DynamoDB, CloudWatch, CloudFormation, CodeGuru, XRay, AWS SDK
     - title: Microcontrollers
-      logo: /microcontrollers_logo.svg
+      logo: microcontrollers_logo.svg
       description: Research hardware and software support configuring STM32 microcontroller to drive contact imaging system, work with Arduino and Raspberry Pi
 experience:
   enable: true
   item:
-    - logo: /umd_job.svg
+    - logo: umd_job.svg
       title: Undergraduate Teaching Assistant
       company: University of Maryland Department of Computer Science
       duration: Aug 2022 - Present
       description: test
-    - logo: /umd_job.svg
+    - logo: umd_job.svg
       title: Undergraduate ASPIRE Researcher
       company: University of Maryland Microfluidics Laboratory
       duration: Sep 2019 - Present
-    - logo: /aws_job.svg
+    - logo: aws_job.svg
       title: AWS CloudFormation SDE Intern
       company: Amazon Web Services
       duration: Summer 2022
-    - logo: /aws_job.svg
+    - logo: aws_job.svg
       title: AWS CloudFormation SDE Intern
       company: Amazon Web Services
       duration: Summer 2021
-    - logo: /Northrop_Grumman_job.svg
+    - logo: Northrop_Grumman_job.svg
       title: Radar Calibration Team Intern
       company: Northrop Grumman
       duration: Summer 2020
-    - logo: /NIST_job.svg
+    - logo: NIST_job.svg
       title: Quantum Measurement Division Intern
       company: National Institute of Standards and Technology
       duration: Summer 2018
@@ -92,7 +92,7 @@ education:
     - title: Computer Engineering, Statistics Minor
       year: 2019 - 2023
       academy: University of Maryland, College Park
-      image: /umd_school.svg
+      image: umd_school.svg
 leadership:
   enable: true
   item:
